@@ -1,3 +1,5 @@
 fetch demo
 
 add a new line in fetch demo
+
+test fetch
